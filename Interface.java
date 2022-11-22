@@ -14,7 +14,7 @@ class Cat implements Dog {
 	}
 }
 
-public class Animal {
+public class Interface {
 	public static void main(String[] args) {
 		Cat myCat = new Cat();
 		myCat.dogSound();
